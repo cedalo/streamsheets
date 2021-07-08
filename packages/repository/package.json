@@ -24,7 +24,7 @@
     "fs-extra": "9.0.0",
     "lowdb": "0.14.0",
     "mixwith": "0.1.1",
-    "mongodb": "3.0.11"
+    "mongodb": "3.6.1"
   },
   "devDependencies": {
     "jest": "21.2.1",
